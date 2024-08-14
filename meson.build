@@ -3,7 +3,6 @@
 
 project('nix-dev-shell', 'cpp',
   version : files('.version'),
-  subproject_dir : 'src',
 )
 
 # Internal Libraries
